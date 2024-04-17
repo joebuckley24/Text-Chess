@@ -1,6 +1,6 @@
 import re
 
-help_message = """Here is how you can enter a move. 
+help_message = """Here's how to move. 
 First, enter the piece you are trying to move. 
 This will just be one letter. 
 Type K for king, Q for queen, R for rook, B for bishop, N for knight, and P for pawn. 

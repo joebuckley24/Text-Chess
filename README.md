@@ -1,5 +1,16 @@
 # Text-Chess
 
+## How to Run
+
+Download or fork the repository. 
+Open your command prompt or terminal, navigate to the `Text-Chess` directory,
+and then run the program by typing `python game.py`.
+You will immediately enter the two player gameplay.
+Only legal moves will be allowed,
+and the program will determine when the game is over (won by one side or drawn).
+
+
+## Gameplay
 ```
 Welcome to text chess!
 8 '♜' '♞' '♝' '♛' '♚' '♝' '♞' '♜'
@@ -11,10 +22,9 @@ Welcome to text chess!
 2 '♙' '♙' '♙' '♙' '♙' '♙' '♙' '♙'
 1 '♖' '♘' '♗' '♕' '♔' '♗' '♘' '♖'
    a    b    c    d    e    f    g    h
-White, it's your turn! Please enter your move ('h' for help):
 ```
 
-Here is how you can enter a move. 
+Here's how to move. 
 First, enter the piece you are trying to move. 
 This will just be one letter. 
 Type K for king, Q for queen, R for rook, B for bishop, N for knight, and P for pawn. 
