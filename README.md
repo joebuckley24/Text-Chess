@@ -1,6 +1,7 @@
 # Text-Chess
 
-`Welcome to text chess!
+```
+Welcome to text chess!
 8 '♜' '♞' '♝' '♛' '♚' '♝' '♞' '♜'
 7 '♟' '♟' '♟' '♟' '♟' '♟' '♟' '♟'
 6 ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
@@ -10,7 +11,8 @@
 2 '♙' '♙' '♙' '♙' '♙' '♙' '♙' '♙'
 1 '♖' '♘' '♗' '♕' '♔' '♗' '♘' '♖'
    a   b   c   d   e   f   g   h
-White, it's your turn! Please enter your move ('h' for help):`
+White, it's your turn! Please enter your move ('h' for help):
+```
 
 Here is how you can enter a move. 
 First, enter the piece you are trying to move. 
